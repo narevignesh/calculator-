@@ -1,7 +1,7 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" 
+<project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 
-                             http://maven.apache.org/xsd/maven-4.0.0.xsd">
+                             https://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.narevignesh</groupId>
@@ -9,28 +9,7 @@
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>Calculator Library</name>
-    <description>A simple calculator Java library</description>
-    <url>https://github.com/narevignesh/calculator-</url>
-
-    <licenses>
-        <license>
-            <name>The MIT License</name>
-            <url>https://opensource.org/licenses/MIT</url>
-        </license>
-    </licenses>
-
-    <scm>
-        <connection>scm:git:git://github.com/narevignesh/calculator-.git</connection>
-        <developerConnection>scm:git:ssh://github.com/narevignesh/calculator-.git</developerConnection>
-        <url>https://github.com/narevignesh/calculator-</url>
-    </scm>
-
-    <distributionManagement>
-        <repository>
-            <id>github</id>
-            <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/narevignesh/calculator-</url>
-        </repository>
-    </distributionManagement>
+    <name>Calculator</name>
+    <description>A simple Java calculator library</description>
+    <url>https://github.com/narevignesh/calculator</url>
 </project>
