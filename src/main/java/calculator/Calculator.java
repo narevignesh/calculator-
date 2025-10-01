@@ -1,4 +1,4 @@
-package com.example.calculator;
+package calculator;
 
 public final class Calculator {
     private Calculator() {}
